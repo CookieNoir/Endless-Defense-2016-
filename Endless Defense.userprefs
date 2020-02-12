@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\EnemyMove.js">
+    <Files>
+      <File FileName="Assets\EnemyMove.js" Line="1" Column="1" />
+      <File FileName="Assets\pausetxt.js" Line="3" Column="148" />
+      <File FileName="Assets\sttxt.js" Line="1" Column="1" />
+      <File FileName="Assets\pauseoff.js" Line="1" Column="1" />
+      <File FileName="Assets\pausemode.js" Line="1" Column="1" />
+      <File FileName="Assets\resorquit.js" Line="1" Column="1" />
+      <File FileName="Assets\cryshp.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
