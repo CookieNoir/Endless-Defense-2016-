@@ -1,4 +1,4 @@
-# Endless-Defense-2016-
+# Endless Defense (2016)
 The first game prototype I created with Unity. Or just the first game I created.
 
 Some screenshots
